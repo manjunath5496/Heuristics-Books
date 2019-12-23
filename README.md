@@ -79,11 +79,11 @@
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(41).pdf" style="text-decoration:none;">Self-Adaptive Heuristics for Evolutionary Computation</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(42).pdf" style="text-decoration:none;">PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(42).pdf" style="text-decoration:none;">Heuristic Algorithms for NP-Complete Problems</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(43).pdf" style="text-decoration:none;">3D-Assisted Feature Synthesis for Novel Views of an Object</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(43).pdf" style="text-decoration:none;">Modern Heuristics</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(44).pdf" style="text-decoration:none;">Multi-view Convolutional Neural Networks for 3D Shape Recognition</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(44).pdf" style="text-decoration:none;">Time Series Analysis: A Heuristic Primer</a></b></li>
  
  
  
