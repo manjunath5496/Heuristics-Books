@@ -64,19 +64,19 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(33).pdf" style="text-decoration:none;">The Linear Ordering Problem: Exact and Heuristic Methods in Combinatorial Optimization</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(34).pdf" style="text-decoration:none;">AM: An Artificial Intelligence Approach to Discovery in Mathematics as Heuristic Search</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(35).pdf" style="text-decoration:none;">Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(35).pdf" style="text-decoration:none;">The Distributer's Three-dimensional Pallet-packing Problem: A Human Intelligence-based Heuristic Approach</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(36).pdf" style="text-decoration:none;">SECOND: Sparsely Embedded Convolutional Detection</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(36).pdf" style="text-decoration:none;">Primal Heuristics for Mixed Integer Programs</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(37).pdf" style="text-decoration:none;">Multiview Random Forest of Local Experts Combining RGB and LIDAR data for Pedestrian Detection</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(37).pdf" style="text-decoration:none;">Scalable Software Testing and Verification Through Heuristic Search and Optimization: Experiences and Lessons Learned</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(38).pdf" style="text-decoration:none;">Multi-Task Multi-Sensor Fusion for 3D Object Detection</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(38).pdf" style="text-decoration:none;">Heuristic optimization of the p-median problem and population re-distribution</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(39).pdf" style="text-decoration:none;">Deep Continuous Fusion for Multi-Sensor 3D Object Detection</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(39).pdf" style="text-decoration:none;">A Proposed Heuristic for a Computer Chess Program</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(40).pdf" style="text-decoration:none;">Pedestrian detection combining RGB and dense LIDAR data</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(41).pdf" style="text-decoration:none;">Volumetric and Multi-View CNNs for Object Classification on 3D Data</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(40).pdf" style="text-decoration:none;">Non convex Optimization in Mechanics: Algorithms, Heuristics and Engineering Applications </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(41).pdf" style="text-decoration:none;">Self-Adaptive Heuristics for Evolutionary Computation</a></b></li>  
                                              
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Heuristics-Books/blob/master/heu(42).pdf" style="text-decoration:none;">PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud</a></b></li>
